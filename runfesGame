@@ -1,0 +1,9 @@
+#LGAMES=$LGAMES_HOME
+
+export CROB_HOME=/home/pi4/Desktop/Abot_Giovanna/crob_Kostas
+
+
+
+#cd ../fesGame
+#wish fesGame.tcl
+wish test_fesGame.tcl
